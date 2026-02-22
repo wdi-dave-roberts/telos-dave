@@ -6,7 +6,7 @@
 
 ## Origin
 
-Tonia and I are high school sweethearts. Together since 15, now 55. Both from Evansville, IN — depressed, regressive town. Both from broken, abusive homes.
+Tonia and I are high school sweethearts. Together since 15, now 56. Both from Evansville, IN — depressed, regressive town. Both from broken, abusive homes.
 
 **Her:** Sexually abused by her father. Emotionally abused by family.
 
