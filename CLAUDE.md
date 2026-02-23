@@ -182,3 +182,55 @@ Concatenates core telos files into `~/.config/fabric/contexts/telos.md` so all F
 - For alignment checks, evaluate decisions against the telos files and the conceptual chain
 - Keep telos file updates as proposals for Dave to approve or reject
 - When something feels disconnected, trace it up the chain — if it doesn't reach a Problem, name why
+
+## Help Command
+
+When Dave says "telos help", display this:
+
+```
+TELOS RHYTHM
+─────────────────────────────────────────────────────────
+
+  Anytime     "that's a telos moment"  → capture saved
+              alignment-check.sh       → decision vs telos
+
+  Daily       process-journal.sh       → excavation, telos map, blindspots
+                                         (3 findings files)
+
+  Weekly      generate-prompt.sh       → 3-5 journal questions
+  (Sunday)                               from what's thin/stale/unresolved
+
+  Bi-weekly   pattern report           → blindspots + contradictions
+  (Friday)                               across full telos
+
+  Monthly     monthly-synthesis.sh     → 500-word narrative of the month
+  (1st)                                  saved to synthesis/
+
+  After edits build-fabric-context.sh  → rebuild Fabric context
+
+CONCEPTUAL CHAIN
+─────────────────────────────────────────────────────────
+
+  Problems → Mission → Narratives → Goals →
+  Challenges → Strategies → Projects → Journal
+
+  If it can't trace back to a Problem, it's drift.
+
+FILES
+─────────────────────────────────────────────────────────
+
+  Populated:   MISSION  BELIEFS  TRAUMAS  LEARNED
+               CHALLENGES  PERSONALITY  BACKGROUND
+  To develop:  PROBLEMS  NARRATIVES  GOALS  STRATEGIES
+               PROJECTS  WRONG  MODELS
+  Active:      journal/  captures/  findings/  synthesis/
+
+RULES
+─────────────────────────────────────────────────────────
+
+  1. Dave owns this — proposals only, never unilateral edits
+  2. Raw is sacred — never edit captures or journals
+  3. No guilt — mirror, not scorecard
+  4. No therapy — patterns, not diagnoses
+  5. Privacy is absolute
+```
