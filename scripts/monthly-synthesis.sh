@@ -62,7 +62,7 @@ done
 OUTPUT="$SYNTHESIS_DIR/${TARGET_MONTH}-narrative.md"
 
 echo -e "CURRENT TELOS CONTEXT:${TELOS_CONTEXT}\n\n---\n\nTHIS MONTH'S CONTENT:${MONTH_CONTENT}" | \
-  fabric -p personal_telos_monthly_narrative > "$OUTPUT"
+  fabric-ai -p personal_telos_monthly_narrative > "$OUTPUT"
 
 echo "✅ Narrative saved to: $OUTPUT"
 echo ""

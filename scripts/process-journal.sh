@@ -41,18 +41,18 @@ echo ""
 
 # Step 1: Excavation — what's beneath the words
 echo "Step 1/3: Excavation..."
-cat "$INPUT" | fabric -p personal_telos_excavation > "${OUTPUT_PREFIX}-excavation.md" 2>/dev/null
+cat "$INPUT" | fabric-ai -p personal_telos_excavation > "${OUTPUT_PREFIX}-excavation.md" 2>/dev/null
 echo "  ✅ ${OUTPUT_PREFIX}-excavation.md"
 
 # Step 2: Anecdote expansion — map to telos files
 echo "Step 2/3: Telos mapping..."
-cat "$INPUT" | fabric -p wdi_expand_telos_from_anecdote > "${OUTPUT_PREFIX}-telos-map.md" 2>/dev/null
+cat "$INPUT" | fabric-ai -p wdi_expand_telos_from_anecdote > "${OUTPUT_PREFIX}-telos-map.md" 2>/dev/null
 echo "  ✅ ${OUTPUT_PREFIX}-telos-map.md"
 
 # Step 3: Blindspots — what's not being seen
 echo "Step 3/3: Blindspot analysis..."
 CONTEXT=$(cat "$TELOS_DIR"/MISSION.md "$TELOS_DIR"/BELIEFS.md "$TELOS_DIR"/TRAUMAS.md "$TELOS_DIR"/LEARNED.md 2>/dev/null)
-echo -e "${CONTEXT}\n\n---\n\nNEW JOURNAL ENTRY:\n\n$(cat "$INPUT")" | fabric -p t_find_blindspots > "${OUTPUT_PREFIX}-blindspots.md" 2>/dev/null
+echo -e "${CONTEXT}\n\n---\n\nNEW JOURNAL ENTRY:\n\n$(cat "$INPUT")" | fabric-ai -p t_find_blindspots > "${OUTPUT_PREFIX}-blindspots.md" 2>/dev/null
 echo "  ✅ ${OUTPUT_PREFIX}-blindspots.md"
 
 echo ""

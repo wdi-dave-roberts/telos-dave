@@ -40,4 +40,4 @@ if [[ -d "$TELOS_DIR/captures" ]]; then
 fi
 
 echo -e "${TELOS_CONTENT}${RECENT_JOURNALS}${RECENT_CAPTURES}" | \
-  fabric -p personal_telos_journal_prompt
+  fabric-ai -p personal_telos_journal_prompt

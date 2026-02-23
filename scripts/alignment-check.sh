@@ -44,4 +44,4 @@ for f in MISSION.md BELIEFS.md VALUES.md GOALS.md STRATEGIES.md LEARNED.md CHALL
 done
 
 echo -e "PERSONAL TELOS:${TELOS_CONTEXT}\n\n---\n\nDECISION TO EVALUATE:\n\n${DECISION}" | \
-  fabric -p wdi_telos_alignment_check
+  fabric-ai -p wdi_telos_alignment_check
