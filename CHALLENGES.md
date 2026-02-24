@@ -40,4 +40,22 @@ The fear is mostly gone now. But the wiring is still there. I still notice it.
 
 ---
 
+## The Feelings Dynamic
+
+Frequent and intense fighting over feelings — specifically around her "not allowing me to have feelings." This has been the recurring conflict throughout our relationship, intensifying over the past couple of years.
+
+I'm starting to see my part in this more clearly. She seems to be seeing hers. Whether the dynamic that's existed our entire relationship can truly change is an open question, but there's cautious optimism.
+
+**Status:** Active. Both sides recognizing their contributions. Watch for regression into old patterns.
+
+---
+
+## Overcomplication
+
+I tend to overcomplicate things — wedding prep, systems, processes — when simpler approaches would serve just as well or better. Serious diminishing returns. This connects to the efficiency instinct: I optimize when I should just do.
+
+**Status:** Recognized. Actively watching for it.
+
+---
+
 *First entry: 2026-02-01*

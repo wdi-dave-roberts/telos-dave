@@ -71,10 +71,10 @@ Journal:    "Built it alone. Her emphasis is different. Incomplete."
 |---|---|---|
 | Problems | *(not yet separated from BELIEFS.md)* | To develop |
 | Mission | `MISSION.md` | Populated |
-| Narratives | `NARRATIVES.md` | To develop |
-| Goals | `GOALS.md` | To develop |
+| Narratives | `NARRATIVES.md` | Populated |
+| Goals | `GOALS.md` | Populated |
 | Challenges | `CHALLENGES.md` | Populated |
-| Strategies | `STRATEGIES.md` | To develop |
+| Strategies | `STRATEGIES.md` | Populated |
 | Projects | `PROJECTS.md` | To develop |
 | Journal | `journal/` | Active |
 
@@ -168,7 +168,7 @@ Concatenates core telos files into `~/.config/fabric/contexts/telos.md` so all F
 
 ## Rules
 
-1. **Dave owns this.** Propose telos updates — never write them unilaterally.
+1. **Dave owns this.** Only Dave contributes to telos files — but journaling *is* contributing. Automated processes triggered by Dave's journal entries (findings, telos mapping, synthesis) can update telos files directly.
 2. **Raw is sacred.** Never edit captures or journal entries after creation.
 3. **No guilt.** The system is a mirror, not a scorecard.
 4. **No therapy.** Notice patterns. Don't diagnose.
@@ -221,14 +221,14 @@ FILES
 
   Populated:   MISSION  BELIEFS  TRAUMAS  LEARNED
                CHALLENGES  PERSONALITY  BACKGROUND
-  To develop:  PROBLEMS  NARRATIVES  GOALS  STRATEGIES
-               PROJECTS  WRONG  MODELS
+               NARRATIVES  GOALS  STRATEGIES
+  To develop:  PROBLEMS  PROJECTS  WRONG  MODELS
   Active:      journal/  captures/  findings/  synthesis/
 
 RULES
 ─────────────────────────────────────────────────────────
 
-  1. Dave owns this — proposals only, never unilateral edits
+  1. Dave owns this — journaling is contributing; automated pipeline updates are authorized
   2. Raw is sacred — never edit captures or journals
   3. No guilt — mirror, not scorecard
   4. No therapy — patterns, not diagnoses
