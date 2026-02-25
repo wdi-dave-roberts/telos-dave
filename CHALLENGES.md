@@ -44,9 +44,13 @@ The fear is mostly gone now. But the wiring is still there. I still notice it.
 
 Frequent and intense fighting over feelings — specifically around her "not allowing me to have feelings." This has been the recurring conflict throughout our relationship, intensifying over the past couple of years.
 
-I'm starting to see my part in this more clearly. She seems to be seeing hers. Whether the dynamic that's existed our entire relationship can truly change is an open question, but there's cautious optimism.
+The mechanism is clearer now: when I bring a non-positive feeling — especially one that touches Tonia's ego or sense of self-worth — the response is to nullify it. Sometimes by explaining why I shouldn't feel that way, sometimes by reframing what I'm experiencing into something non-problematic. The effect is the same regardless of intent: I learn that bringing feelings forward doesn't work. Her intent is love — she doesn't want me to be upset. But the consistency of the response means I can never distinguish the times she has a genuine point from the times she's defending.
 
-**Status:** Active. Both sides recognizing their contributions. Watch for regression into old patterns.
+I'm an imperfect person and sometimes she's right. But since the response is always the same, I can't benefit from the corrections that are actually loving.
+
+I believe she understands my need: the ability to have non-positive feelings, and for her to just hold that space. But this pattern is as deep as any in our relationship. I need to seriously work on navigating these moments to avoid the toxic cycle — that's my part. Whether the pattern itself can change is an open question.
+
+**Status:** Active. Mechanism clearer. Both sides recognizing contributions. I need strategies for navigating without escalation.
 
 ---
 

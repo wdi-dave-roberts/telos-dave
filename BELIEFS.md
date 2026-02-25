@@ -33,4 +33,12 @@ The Bear, Forks episode. The things no one will ever notice are the things that 
 
 ---
 
-*Last updated: 2026-02-01*
+## Emotional Safety Is Foundational
+
+The ability to have non-positive feelings — and have someone hold space for them without explaining them away — is not a preference. It's a need. It sits at the base of my own hierarchy, the same way physical safety sits at the base of the Hierarchy of Care.
+
+This doesn't mean every feeling is valid or that I'm always right. It means the feelings need to be *allowed* before they can be examined. Correction that skips acknowledgment isn't correction — it's dismissal, even when it comes from love.
+
+---
+
+*Last updated: 2026-02-25*
