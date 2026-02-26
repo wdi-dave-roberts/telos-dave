@@ -24,4 +24,14 @@ This connects directly to the feelings dynamic with Tonia. The pattern where my 
 
 ---
 
+## Vulnerability Read as Strategy
+
+When I share vulnerable parts of myself with Tonia — tender things, not complaints — she has often received them with confusion, as if I were hinting at something or had an ulterior motive. My only motive is to be seen and understood. The pattern is discouraging: I offer openness and it gets interpreted as tactics.
+
+On 2026-02-25, she received my journal sharing more openly and with greater interest. One data point, not a trend yet, but enough to be encouraged by.
+
+**Status:** Emerging. Connected to "The Longing to Be Seen."
+
+---
+
 *First entry: 2026-02-24*
